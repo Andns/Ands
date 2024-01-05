@@ -1,6 +1,6 @@
 #  :relaxed: Olá! seja bem vindo ao meu github!
 # Me chamo Andreza!
-# books: E atualmente sou estudante de:
+# :books: E atualmente sou estudante de:
 <img loading="lazy"> <svg viewBox="0 0 128 128">             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 <img loading="lazy"> <svg viewBox="0 0 128 128">
